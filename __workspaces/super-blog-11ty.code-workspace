@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "/Users/andrea/Sites/super-blog-11ty"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#457b9d",
+      "titleBar.activeForeground": "#FFF",
+      "titleBar.inactiveBackground": "#457b9d",
+      "titleBar.inactiveForeground": "#FFF"
+    }
+  }
+}

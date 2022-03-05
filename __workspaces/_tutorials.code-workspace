@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "/Users/andrea/Sites/_tutorials/react-ts-ecommerce"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#FF5C58",
+      "titleBar.activeForeground": "#FFF",
+      "titleBar.inactiveBackground": "#FE8F8F",
+      "titleBar.inactiveForeground": "#FFF"
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"]
+  }
+}

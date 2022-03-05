@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "/Users/andrea/Sites/super-notes"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#0984e3",
+      "titleBar.activeForeground": "#FFF",
+      "titleBar.inactiveBackground": "#74b9ff",
+      "titleBar.inactiveForeground": "#FFF"
+    }
+  }
+}
